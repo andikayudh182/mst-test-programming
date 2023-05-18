@@ -17,7 +17,7 @@
     "dialect": "postgres"
 3. Kembali ke folder mst-backend dan jalankan perintah ``` npm install ``` untuk mendownload node modules
 4. Kemudian lakukan db migration dengan perintah ``` sequelize db:migrate ``` dan pastikan apakah table sudah berhasil digenerate ke dalam postgre
-5. Jalankan perintah ``` nodemon ``` pada folder backend untuk menjalankan server
+5. Jalankan perintah ``` nodemon ``` pada folder mst-backend untuk menjalankan server
 
 ### Create Account For Login
 1. Buka Postman/Thunder Client
