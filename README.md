@@ -22,11 +22,10 @@
 ### Create Account For Login
 1. Buka Postman/Thunder Client
 2. Setiing Url menjadi "http://localhost:3000/api/user/signup" dengen HTTP METHOD POST
-3. Isi body dengan contoh dibawah ini
-{
-  "username": "yourusername",
-  "password": "yourpass",
-  "nama": "yournama"
-  
-}
+3. Isi body dengan contoh dibawah ini <br> 
+{ <br> 
+      "username": "yourusername", <br> 
+      "password": "yourpass", <br> 
+      "nama": "yournama" <br>  
+} <br> 
 4. silahkan login pada website menggunakan username dan password yang didaftarkan
